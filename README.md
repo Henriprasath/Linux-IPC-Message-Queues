@@ -1,5 +1,8 @@
-# Linux-IPC-Message-Queues
-Linux IPC-Message Queues
+## EXP-04 Linux-IPC-Message-Queues
+
+### Name: HENRIPRASATH S
+### Register No: 212223230077
+### Date:
 
 # AIM:
 To write a C program that receives a message from message queue and display them
